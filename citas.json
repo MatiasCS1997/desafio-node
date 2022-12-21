@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Totti",
+        "edad": "4 años",
+        "animal": "Gato",
+        "color": "Negro",
+        "enfermedad": "vomitos"
+    },
+    {
+        "nombre": "Kira",
+        "edad": "9 años",
+        "animal": "gato",
+        "color": "amarillo",
+        "enfermedad": "vacunas"
+    }
+]
